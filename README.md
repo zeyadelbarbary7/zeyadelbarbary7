@@ -18,8 +18,6 @@
 <!-- 🔥 Subtitle -->
 <p align="center">
 🎓 Computer & Systems Engineering @ Ain Shams University <br/>
-📍 Cairo, Egypt <br/>
-💡 UVM Verification | Software Engineering
 </p>
 
 <!-- 🔥 Divider -->
