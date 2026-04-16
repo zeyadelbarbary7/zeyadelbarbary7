@@ -1,38 +1,96 @@
-# Hi there, I'm Zeyad 👋 
+# Hi 👋, I'm Zeyad Elbarbary
 
-### 🚀 Computer & Systems Engineering Senior @ Ain Shams University
-I am a specialized Hardware Verification Engineer and Salesforce Trainee. I bridge the gap between complex digital design protocols and scalable enterprise cloud solutions.
-
----
-
-## 🛠️ Technical Arsenal
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Hardware & Design** | SystemVerilog, UVM, PCIe (Gen 5/6), AXI4, Digital Design |
-| **Cloud & CRM** | Salesforce, Apex, Object Relationships, SOQL/SOSL |
-| **Embedded & Systems** | C, C++, Keil 5, Microcontrollers |
-| **Software Skills** | Python, Git, Mermaid.js, Project Management |
+🎓 Computer & Systems Engineering Senior @ Ain Shams University  
+💡 Software Engineer | Digital Verification Engineer  
+📍 Cairo, Egypt  
 
 ---
 
-## 🏗️ Featured Projects
-* **PCIe-to-AXI Bridge Design & Verification:** A comprehensive graduation project focusing on high-speed protocol conversion and UVM-based verification environments.
-* **Salesforce Academy Projects:** Developing custom Apex triggers and managing complex data schemas for enterprise workflows.
-* **Campus Event Management:** A full-cycle project management case study including architectural planning and mobile app flow.
+## 🧠 About Me
+
+I’m a Computer & Systems Engineering student with a strong foundation in **Software Engineering and Digital IC Verification**.
+
+I specialize in building **scalable software systems** and **UVM-based verification environments**, with a deep focus on the **PCIe protocol** and constrained-random verification.
+
+🔍 I enjoy bridging the gap between **hardware and software** by designing robust, automated, and high-performance systems.
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming
+- C / C++ / Python / Java / JavaScript / TypeScript / MATLAB
+
+### 🌐 Web & Software
+- React.js, Node.js, Express, MongoDB
+- REST APIs, JWT Authentication, Socket.IO
+
+### ⚙️ Tools
+- Git & GitHub, Qt Creator, Flask, SQL
+
+### 🔌 Hardware & Verification
+- Verilog, SystemVerilog, Embedded C
+- UVM (Universal Verification Methodology)
+- RTL Design & Simulation
+- SystemVerilog Assertions (SVA)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 PCIe Gen5 Verification (Graduation Project)
+- Built a **UVM-based verification environment** for PCIe Transaction Layer  
+- Designed **agents, scoreboards, and constrained-random test scenarios**  
+- Achieved **100% functional coverage**
+
+---
+
+### 🔹 CPU Scheduling Simulator
+- GUI-based simulator using **C++ & Qt**
+- Implemented: FCFS, SJF, Priority, Round Robin  
+- Real-time **Gantt Chart visualization**
+
+---
+
+### 🔹 Real-Time Chat Application
+- Full-stack app using **MERN + Socket.IO**
+- Features:
+  - Real-time messaging
+  - Authentication with JWT
+  - Responsive UI
+
+---
+
+### 🔹 RTL to GDS Digital System
+- Multi-clock system with **UART + FIFO buffering**
+- Prevented data loss across clock domains  
+- Implemented ALU + register file operations
+
+---
+
+### 🔹 MIPS Processor Design
+- Designed a **32-bit MIPS processor in Verilog**
+- Built modular components (ALU, control unit, memory)
+- Verified using testbenches
 
 ---
 
 ## 📊 GitHub Stats
-![Zeyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeyadelbarbary7&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyadelbarbary7&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Connect with me:
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](YOUR_LINKEDIN_URL)
-[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />](YOUR_PORTFOLIO_OR_WEBSITE_URL)
+## 📫 Connect With Me
+
+- 📧 Email: zeyadelbarbary7@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/zeyad-elbarbary 
+- 💻 GitHub: https://github.com/zeyadelbarbary7  
 
 ---
 
-> "Engineering is about making things work; Verification is about proving they can't fail."
+## ⚡ Fun Fact
+I build both **frontend apps and hardware verification environments** — not a common combo 😄
