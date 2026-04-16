@@ -21,14 +21,14 @@ I specialize in <b>Digital IC Verification (UVM)</b> and enjoy working at the in
 ## ⚙️ Tech Stack
 
 ### 🖥️ Programming Languages
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,matlab,html,css" />
 </p>
 
 ---
 
 ### 🧪 Verification
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/UVM-Verification-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SystemVerilog-SVA-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Constrained--Random-Testing-green?style=for-the-badge" />
@@ -38,7 +38,7 @@ I specialize in <b>Digital IC Verification (UVM)</b> and enjoy working at the in
 ---
 
 ### 🔌 Hardware & Digital Design
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/RTL-Design-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Verilog-SystemVerilog-red?style=for-the-badge" />
 <img src="https://img.shields.io/badge/FPGA-Concepts-blueviolet?style=for-the-badge" />
@@ -48,7 +48,7 @@ I specialize in <b>Digital IC Verification (UVM)</b> and enjoy working at the in
 ---
 
 ### 🛠️ Tools & Frameworks
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,mongodb,flask" />
 <img src="https://img.shields.io/badge/QuestaSim-ModelSim-informational?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Qt-Creator-success?style=for-the-badge" />
@@ -58,7 +58,7 @@ I specialize in <b>Digital IC Verification (UVM)</b> and enjoy working at the in
 ---
 
 ### ⚡ Scripting & Automation
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,bash" />
 <img src="https://img.shields.io/badge/TCL-Scripting-orange?style=for-the-badge" />
 </p>
