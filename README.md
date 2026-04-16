@@ -1,18 +1,31 @@
-<!-- Gradient Name Banner -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Zeyad+Elbarbary;Digital+Verification+Engineer;Software+Engineer;Bridging+Hardware+%26+Software" />
-</h1>
-
+<!-- 🔥 Animated Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Zeyad%20Elbarbary&fontSize=45&color=0:0f2027,50:203a43,100:2c5364&stroke=00F7FF&fontColor=ffffff" />
 </p>
 
+<!-- 🔥 Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Digital+Verification+Engineer;UVM+%7C+SystemVerilog+%7C+SVA;Software+Engineer;Bridging+Hardware+%26+Software;Building+Provably+Correct+Systems" />
+</p>
+
+<!-- 🔥 Badges Row -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zeyadelbarbary7&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/zeyadelbarbary7?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/zeyadelbarbary7?affiliations=OWNER&style=for-the-badge&color=yellow" />
+</p>
+
+<!-- 🔥 Subtitle -->
 <p align="center">
 🎓 Computer & Systems Engineering @ Ain Shams University <br/>
 📍 Cairo, Egypt <br/>
 💡 UVM Verification | Software Engineering
 </p>
 
+<!-- 🔥 Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
 ---
 
 ## 🧠 About Me
@@ -81,14 +94,6 @@ working at the intersection of <b>hardware & software</b>.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyadelbarbary7&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/zeyadelbarbary7/zeyadelbarbary7/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
