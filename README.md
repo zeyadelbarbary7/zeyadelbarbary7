@@ -72,6 +72,10 @@ I specialize in <b>Digital IC Verification (UVM)</b> and enjoy working at the in
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyadelbarbary7&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyadelbarbary7&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
 ---
 
 ## 🎯 Current Focus
@@ -90,6 +94,9 @@ I specialize in <b>Digital IC Verification (UVM)</b> and enjoy working at the in
 </a>
 <a href="https://linkedin.com/in/zeyad-elbarbary-6aa331252">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://discord.com/users/581311364774101025">
+  <img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 </p>
 
