@@ -1,56 +1,72 @@
 # Hi 👋, I'm Zeyad Elbarbary
 
-🎓 Computer & Systems Engineering Senior @ Ain Shams University  
-💡 Software Engineer | Digital Verification Engineer  
+🎓 Computer & Systems Engineering @ Ain Shams University  
 📍 Cairo, Egypt  
 
 ---
 
-## 🧠 About Me
+## 🧠 Who Am I
 
-I’m a Computer & Systems Engineering student with a strong foundation in **Software Engineering and Digital IC Verification**.
+I’m a senior engineering student focused on **Digital IC Verification** and **Software Engineering**.
 
-I specialize in building **scalable software systems** and **UVM-based verification environments**, with a deep focus on the **PCIe protocol** and constrained-random verification.
-
-🔍 I enjoy bridging the gap between **hardware and software** by designing robust, automated, and high-performance systems.
+I enjoy working at the intersection of **hardware and software**, where systems need to be not only functional — but *provably correct, scalable, and efficient*.
 
 ---
 
-## 🛠️ Technical Skills
+## ⚙️ What I Work With
 
-### 💻 Programming
-- C / C++ / Python / Java / JavaScript / TypeScript / MATLAB
-
-### 🌐 Web & Software
-- React.js, Node.js, Express, MongoDB
-- REST APIs, JWT Authentication, Socket.IO
-
-### ⚙️ Tools
-- Git & GitHub, Qt Creator, Flask, SQL
-
-### 🔌 Hardware & Verification
-- Verilog, SystemVerilog, Embedded C
-- UVM (Universal Verification Methodology)
-- RTL Design & Simulation
-- SystemVerilog Assertions (SVA)
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeyadelbarbary7&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyadelbarbary7&theme=tokyonight" />
-</p>
+### 🖥️ Programming
+`C` `C++` `Java` `Python` `MATLAB`  
+`JavaScript` `TypeScript` `HTML` `CSS`
 
 ---
 
-## 📫 Connect With Me
-
-- 📧 Email: zeyadelbarbary7@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/zeyad-elbarbary 
-- 💻 GitHub: https://github.com/zeyadelbarbary7  
+### 🧪 Verification & Methodologies
+- UVM (Universal Verification Methodology)  
+- SystemVerilog Assertions (SVA)  
+- Constrained-Random Testing  
+- Functional Coverage  
 
 ---
 
-## ⚡ Fun Fact
-I build both **frontend apps and hardware verification environments** — not a common combo 😄
+### 🔌 Hardware & Digital Design
+- RTL Design & Simulation  
+- Verilog / SystemVerilog  
+- Digital Circuits & FPGA Concepts  
+- Embedded C  
+- Proteus  
+
+---
+
+### 🛠️ Tools & Frameworks
+- Git & GitHub  
+- QuestaSim / ModelSim (Mentor Graphics)  
+- Qt Creator  
+- Flask  
+- MongoDB & SQL  
+
+---
+
+### ⚡ Scripting & Automation
+`Python` `TCL` `Bash`
+
+---
+
+## 🎯 Focus
+
+- Building **robust verification environments**
+- Writing **clean, scalable software systems**
+- Applying **engineering discipline to complex systems**
+
+---
+
+## 📫 Reach Me
+
+📧 zeyadelbarbary7@gmail.com  
+💼 linkedin.com/in/zeyad-elbarbary-6aa331252  
+
+---
+
+## ⚡ Philosophy
+
+> "If you can’t verify it, you don’t truly understand it."
