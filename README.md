@@ -1,26 +1,33 @@
-<h1 align="center">Hi 👋, I'm Zeyad Elbarbary</h1>
+<!-- Gradient Name Banner -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Zeyad+Elbarbary;Digital+Verification+Engineer;Software+Engineer;Bridging+Hardware+%26+Software" />
+</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
+</p>
 
 <p align="center">
 🎓 Computer & Systems Engineering @ Ain Shams University <br/>
 📍 Cairo, Egypt <br/>
-💡 Digital Verification Engineer | Software Engineer
+💡 UVM Verification | Software Engineering
 </p>
 
 ---
 
 ## 🧠 About Me
 
-<p>
-I’m a senior Computer & Systems Engineering student passionate about building systems that are not only functional — but <b>verifiable, scalable, and efficient</b>.
-
-I specialize in <b>Digital IC Verification (UVM)</b> and enjoy working at the intersection of <b>hardware and software</b>.
+<p align="center">
+I build systems that are not just functional — but <b>provably correct</b>.<br/>
+Focused on <b>Digital IC Verification</b> and <b>scalable software systems</b>,  
+working at the intersection of <b>hardware & software</b>.
 </p>
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 🖥️ Programming Languages
+### 🖥️ Programming
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,matlab,html,css" />
 </p>
@@ -37,7 +44,7 @@ I specialize in <b>Digital IC Verification (UVM)</b> and enjoy working at the in
 
 ---
 
-### 🔌 Hardware & Digital Design
+### 🔌 Hardware
 <p align="center">
 <img src="https://img.shields.io/badge/RTL-Design-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Verilog-SystemVerilog-red?style=for-the-badge" />
@@ -47,7 +54,7 @@ I specialize in <b>Digital IC Verification (UVM)</b> and enjoy working at the in
 
 ---
 
-### 🛠️ Tools & Frameworks
+### 🛠️ Tools
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,mongodb,flask" />
 <img src="https://img.shields.io/badge/QuestaSim-ModelSim-informational?style=for-the-badge" />
@@ -57,7 +64,7 @@ I specialize in <b>Digital IC Verification (UVM)</b> and enjoy working at the in
 
 ---
 
-### ⚡ Scripting & Automation
+### ⚡ Scripting
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,bash" />
 <img src="https://img.shields.io/badge/TCL-Scripting-orange?style=for-the-badge" />
@@ -65,7 +72,7 @@ I specialize in <b>Digital IC Verification (UVM)</b> and enjoy working at the in
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zeyadelbarbary7&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -78,11 +85,21 @@ I specialize in <b>Digital IC Verification (UVM)</b> and enjoy working at the in
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/zeyadelbarbary7/zeyadelbarbary7/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🎯 Current Focus
 
-- 🔹 Digital IC Verification using UVM  
-- 🔹 Scalable Software Systems  
-- 🔹 Bridging Hardware & Software  
+<p align="center">
+🔹 UVM & Advanced Verification <br/>
+🔹 High-Performance Systems <br/>
+🔹 Hardware-Software Integration
+</p>
 
 ---
 
@@ -106,4 +123,8 @@ I specialize in <b>Digital IC Verification (UVM)</b> and enjoy working at the in
 
 <p align="center">
 <i>"If you can't verify it, you don't truly understand it."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer"/>
 </p>
