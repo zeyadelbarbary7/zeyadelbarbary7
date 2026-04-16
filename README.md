@@ -95,16 +95,6 @@ working at the intersection of <b>hardware & software</b>.
 
 ---
 
-## 🎯 Current Focus
-
-<p align="center">
-🔹 UVM & Advanced Verification <br/>
-🔹 High-Performance Systems <br/>
-🔹 Hardware-Software Integration
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
