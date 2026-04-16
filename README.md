@@ -1,72 +1,102 @@
-# Hi 👋, I'm Zeyad Elbarbary
+<h1 align="center">Hi 👋, I'm Zeyad Elbarbary</h1>
 
-🎓 Computer & Systems Engineering @ Ain Shams University  
-📍 Cairo, Egypt  
-
----
-
-## 🧠 Who Am I
-
-I’m a senior engineering student focused on **Digital IC Verification** and **Software Engineering**.
-
-I enjoy working at the intersection of **hardware and software**, where systems need to be not only functional — but *provably correct, scalable, and efficient*.
+<p align="center">
+🎓 Computer & Systems Engineering @ Ain Shams University <br/>
+📍 Cairo, Egypt <br/>
+💡 Digital Verification Engineer | Software Engineer
+</p>
 
 ---
 
-## ⚙️ What I Work With
+## 🧠 About Me
 
-### 🖥️ Programming
-`C` `C++` `Java` `Python` `MATLAB`  
-`JavaScript` `TypeScript` `HTML` `CSS`
+<p>
+I’m a senior Computer & Systems Engineering student passionate about building systems that are not only functional — but <b>verifiable, scalable, and efficient</b>.
+
+I specialize in <b>Digital IC Verification (UVM)</b> and enjoy working at the intersection of <b>hardware and software</b>.
+</p>
 
 ---
 
-### 🧪 Verification & Methodologies
-- UVM (Universal Verification Methodology)  
-- SystemVerilog Assertions (SVA)  
-- Constrained-Random Testing  
-- Functional Coverage  
+## ⚙️ Tech Stack
+
+### 🖥️ Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,matlab,html,css" />
+</p>
+
+---
+
+### 🧪 Verification
+<p>
+<img src="https://img.shields.io/badge/UVM-Verification-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SystemVerilog-SVA-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Constrained--Random-Testing-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Functional-Coverage-purple?style=for-the-badge" />
+</p>
 
 ---
 
 ### 🔌 Hardware & Digital Design
-- RTL Design & Simulation  
-- Verilog / SystemVerilog  
-- Digital Circuits & FPGA Concepts  
-- Embedded C  
-- Proteus  
+<p>
+<img src="https://img.shields.io/badge/RTL-Design-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Verilog-SystemVerilog-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FPGA-Concepts-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Embedded-C-critical?style=for-the-badge" />
+</p>
 
 ---
 
 ### 🛠️ Tools & Frameworks
-- Git & GitHub  
-- QuestaSim / ModelSim (Mentor Graphics)  
-- Qt Creator  
-- Flask  
-- MongoDB & SQL  
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,mongodb,flask" />
+<img src="https://img.shields.io/badge/QuestaSim-ModelSim-informational?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Qt-Creator-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL-Databases-blue?style=for-the-badge" />
+</p>
 
 ---
 
 ### ⚡ Scripting & Automation
-`Python` `TCL` `Bash`
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash" />
+<img src="https://img.shields.io/badge/TCL-Scripting-orange?style=for-the-badge" />
+</p>
 
 ---
 
-## 🎯 Focus
+## 📊 GitHub Stats
 
-- Building **robust verification environments**
-- Writing **clean, scalable software systems**
-- Applying **engineering discipline to complex systems**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeyadelbarbary7&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyadelbarbary7&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
-## 📫 Reach Me
+## 🎯 Current Focus
 
-📧 zeyadelbarbary7@gmail.com  
-💼 linkedin.com/in/zeyad-elbarbary-6aa331252  
+- 🔹 Digital IC Verification using UVM  
+- 🔹 Scalable Software Systems  
+- 🔹 Bridging Hardware & Software  
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+<a href="mailto:zeyadelbarbary7@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+<a href="https://linkedin.com/in/zeyad-elbarbary-6aa331252">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
 
 ---
 
 ## ⚡ Philosophy
 
-> "If you can’t verify it, you don’t truly understand it."
+<p align="center">
+<i>"If you can't verify it, you don't truly understand it."</i>
+</p>
