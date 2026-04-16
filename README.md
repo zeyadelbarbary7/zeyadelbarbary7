@@ -34,46 +34,6 @@ I specialize in building **scalable software systems** and **UVM-based verificat
 - RTL Design & Simulation
 - SystemVerilog Assertions (SVA)
 
----
-
-## 🚀 Featured Projects
-
-### 🔹 PCIe Gen5 Verification (Graduation Project)
-- Built a **UVM-based verification environment** for PCIe Transaction Layer  
-- Designed **agents, scoreboards, and constrained-random test scenarios**  
-- Achieved **100% functional coverage**
-
----
-
-### 🔹 CPU Scheduling Simulator
-- GUI-based simulator using **C++ & Qt**
-- Implemented: FCFS, SJF, Priority, Round Robin  
-- Real-time **Gantt Chart visualization**
-
----
-
-### 🔹 Real-Time Chat Application
-- Full-stack app using **MERN + Socket.IO**
-- Features:
-  - Real-time messaging
-  - Authentication with JWT
-  - Responsive UI
-
----
-
-### 🔹 RTL to GDS Digital System
-- Multi-clock system with **UART + FIFO buffering**
-- Prevented data loss across clock domains  
-- Implemented ALU + register file operations
-
----
-
-### 🔹 MIPS Processor Design
-- Designed a **32-bit MIPS processor in Verilog**
-- Built modular components (ALU, control unit, memory)
-- Verified using testbenches
-
----
 
 ## 📊 GitHub Stats
 
